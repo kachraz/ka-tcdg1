@@ -8,7 +8,8 @@
 
 ----
 1. [?](#)
-2. [Linkeroo](#linkeroo)
+2. [Dira](#dira)
+3. [Linkeroo](#linkeroo)
 
 ----
 
@@ -19,6 +20,11 @@
 
 > This will be all the notes for this cursa which you be doing yaya 
 
+# Dira 
+
+W | uh ?
+|:--:|:--:|
+[`di`](./di/) | Digrams for da stufys , opening linksvia url in diagrams.io- directa raw raw 
 
 
 #  Linkeroo 
