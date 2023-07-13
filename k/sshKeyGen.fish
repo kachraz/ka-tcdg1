@@ -1,3 +1,8 @@
 #!/bin/fish
+# Accessing Snips , the above is being made for that purpose 
+# ssh -i <key> snips.sh
+# Then you can send a file like this 
+# bat pantysmell.txt | ssh -i bootylick snips.sh 
+
 
 ssh-keygen -t ed25519 
