@@ -3,6 +3,14 @@ package main
 import "fmt"
 
 func main() {
-	var card string = "Ace of Spades" // Statically typed defining the variable type as string
-	fmt.Println(card)
+	cards := []string{"Ace of diamonds", newCard()}
+	cards = append(cards, "Six of Spades")
+	
+	for i, card := range cards {
+		fmt.Println(i, card)
+	}
+}
+
+func newCard() string {
+	return "Five of Diamonds"
 }
