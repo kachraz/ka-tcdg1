@@ -3,7 +3,7 @@
 package main
 
 import (
-	 f "fmt"
+	 f "fmt" // this is an alias import 
 )
 
 func main() {
