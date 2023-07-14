@@ -1,5 +1,4 @@
-// This program is ch1 for learning what is  
-
+// This program is ch1 for learning what is
 
 package main
 
@@ -10,4 +9,3 @@ import (
 func main() {
 	fmt.Println("Hello, World!")
 }
-

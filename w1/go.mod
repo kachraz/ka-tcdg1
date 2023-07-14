@@ -1,3 +1,3 @@
-module hw
+module ch1
 
 go 1.20
